@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I’m an Android developer with over 2 years of experience in building high-quality and meaningful products mostly in startups.
 
@@ -6,8 +6,15 @@ I pride myself on having an artistic eye despite being “just” a developer an
 
 Interested in working together? Let's grab a coffee and talk tech, music, TV shows, or latest adventures.
 
-Skills:
+### Skills 💻
 - Languages: Kotlin (Advanced); Java (Advanced); Swift (Intermediate)
 - Interests: Machine Learning; UI/UX; Photography
 
-📫 How to reach me: waseefakhtar@gmail.com 
+### Contact 📮
+- Twitter: [@waseefakhtar](https://twitter.com/waseefakhtar)
+- LinkedIn: [linkedin.com/in/waseef](https://in.linkedin.com/in/waseef)
+- Medium: [medium.com/@WaseefAkhtar](https://www.medium.com/@WaseefAkhtar)
+
+---
+✉️ waseefakhtar@gmail.com 
+
