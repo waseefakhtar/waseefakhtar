@@ -17,4 +17,3 @@ Interested in working together? Let's grab a coffee and talk tech, music, TV sho
 
 ---
 ✉️ waseefakhtar@gmail.com 
-
