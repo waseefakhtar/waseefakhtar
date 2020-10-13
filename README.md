@@ -7,7 +7,7 @@ I pride myself on having an artistic eye despite being “just” a developer an
 Interested in working together? Let's grab a coffee and talk tech, music, TV shows, or latest adventures.
 
 ### Skills 💻
-- Languages: Kotlin (Advanced); Java (Advanced); Swift (Intermediate)
+- Languages: Kotlin; Java; Swift
 - Interests: Machine Learning; UI/UX; Photography
 
 ### Contact 📮
