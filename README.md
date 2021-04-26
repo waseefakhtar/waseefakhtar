@@ -11,6 +11,7 @@ Interested in working together? Let's grab a coffee and talk tech, music, TV sho
 - Interests: Machine Learning; UI/UX; Photography
 
 ### Contact 📮
+- Website: [waseefakhtar.com](https://www.waseefakhtar.com)
 - Twitter: [@waseefakhtar](https://twitter.com/waseefakhtar)
 - LinkedIn: [linkedin.com/in/waseef](https://in.linkedin.com/in/waseef)
 - Medium: [medium.com/@WaseefAkhtar](https://www.medium.com/@WaseefAkhtar)
